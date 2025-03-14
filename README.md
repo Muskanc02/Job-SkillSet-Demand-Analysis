@@ -69,6 +69,8 @@ Data SCIENTIST
 https://public.tableau.com/app/profile/muskan.chawla2373/viz/JobListingAnalysis_17417071327610/Dashboard1?publish=yes
 Also available as tableau work book in git hub repo.
 
+Presentation Link : https://docs.google.com/presentation/d/12E7MEW84s4_W8v-4T5Ldzq2DhbVKjqFdJgOeIMZZ-ak/edit#slide=id.g33f481e1cda_0_37
+
 ## How to Run the Script
 1. Install dependencies:
    ```sh
