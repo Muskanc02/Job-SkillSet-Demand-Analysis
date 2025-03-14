@@ -1,0 +1,323 @@
+Skill,Frequency,Country,Job_Title
+SQL,586,Germany,Data Analyst
+Python,470,Germany,Data Analyst
+Tableau,252,Germany,Data Analyst
+Power BI,373,Germany,Data Analyst
+Databricks,69,Germany,Data Analyst
+Statistics,58,Germany,Data Analyst
+KPIs,32,Germany,Data Analyst
+Google Data Studio,90,Germany,Data Analyst
+GCP,224,Germany,Data Analyst
+Airflow,33,Germany,Data Analyst
+A/B testing,31,Germany,Data Analyst
+Ruby,2,Germany,Data Analyst
+Google Analytics,66,Germany,Data Analyst
+Adobe Analytics,15,Germany,Data Analyst
+Excel/Google Sheets,330,Germany,Data Analyst
+CI/CD,21,Germany,Data Analyst
+R,271,Germany,Data Analyst
+SAP,231,Germany,Data Analyst
+MS Office,138,Germany,Data Analyst
+QlickCloud,2,Germany,Data Analyst
+Azure,102,Germany,Data Analyst
+Snowflake,57,Germany,Data Analyst
+AWS,57,Germany,Data Analyst
+SAS,68,Germany,Data Analyst
+ETL Tools,75,Germany,Data Analyst
+OLAP,9,Germany,Data Analyst
+git,22,Germany,Data Analyst
+Kubernetes,8,Germany,Data Analyst
+Docker,14,Germany,Data Analyst
+Java,50,Germany,Data Analyst
+MicroStrategy,6,Germany,Data Analyst
+Qliksense,43,Germany,Data Analyst
+Salesforce,28,Germany,Data Analyst
+dbt,41,Germany,Data Analyst
+Athena,3,Germany,Data Analyst
+Glue,5,Germany,Data Analyst
+Lambda,3,Germany,Data Analyst
+BigQuery,46,Germany,Data Analyst
+PostgresSQL,15,Germany,Data Analyst
+ERP,67,Germany,Data Analyst
+Matomo,4,Germany,Data Analyst
+Alteryx,20,Germany,Data Analyst
+Spark,23,Germany,Data Analyst
+ML,20,Germany,Data Analyst
+PyTorch,5,Germany,Data Analyst
+TensorFlow,5,Germany,Data Analyst
+MongoDB,2,Germany,Data Analyst
+Kafka,4,Germany,Data Analyst
+Scipy/scikit-learn,9,Germany,Data Analyst
+Talend,12,Germany,Data Analyst
+Keras,3,Germany,Data Analyst
+NLTK/NLP,2,Germany,Data Analyst
+Golang,1,Germany,Data Analyst
+Scala,14,Germany,Data Analyst
+MATLAB,3,Germany,Data Analyst
+Julia,25,Germany,Data Analyst
+Quicksight,3,Germany,Data Analyst
+Terraform,3,Germany,Data Analyst
+AWS,59,Germany,Data Scientist
+Python,259,Germany,Data Scientist
+GCP,60,Germany,Data Scientist
+SQL,127,Germany,Data Scientist
+R,93,Germany,Data Scientist
+BigQuery,12,Germany,Data Scientist
+ML,82,Germany,Data Scientist
+PyTorch,47,Germany,Data Scientist
+Adobe Analytics,1,Germany,Data Scientist
+TensorFlow,45,Germany,Data Scientist
+Azure,39,Germany,Data Scientist
+Statistics,39,Germany,Data Scientist
+Databricks,21,Germany,Data Scientist
+Airflow,8,Germany,Data Scientist
+Spark,40,Germany,Data Scientist
+MicroStrategy,1,Germany,Data Scientist
+NLTK/NLP,35,Germany,Data Scientist
+Power BI,23,Germany,Data Scientist
+MS Office,5,Germany,Data Scientist
+Excel/Google Sheets,10,Germany,Data Scientist
+SAP,22,Germany,Data Scientist
+MATLAB,6,Germany,Data Scientist
+CI/CD,14,Germany,Data Scientist
+Kubernetes,16,Germany,Data Scientist
+XGBoost,3,Germany,Data Scientist
+Docker,31,Germany,Data Scientist
+Alteryx,2,Germany,Data Scientist
+ETL Tools,8,Germany,Data Scientist
+A/B testing,11,Germany,Data Scientist
+Scala,35,Germany,Data Scientist
+git,14,Germany,Data Scientist
+Tableau,26,Germany,Data Scientist
+Qliksense,11,Germany,Data Scientist
+SAS,16,Germany,Data Scientist
+Scipy/scikit-learn,47,Germany,Data Scientist
+dbt,6,Germany,Data Scientist
+Athena,4,Germany,Data Scientist
+Glue,1,Germany,Data Scientist
+Google Data Studio,7,Germany,Data Scientist
+Lambda,1,Germany,Data Scientist
+Golang,1,Germany,Data Scientist
+Snowflake,20,Germany,Data Scientist
+Terraform,4,Germany,Data Scientist
+Talend,10,Germany,Data Scientist
+Java,54,Germany,Data Scientist
+Keras,15,Germany,Data Scientist
+Random Forest,14,Germany,Data Scientist
+Google Analytics,1,Germany,Data Scientist
+Kafka,4,Germany,Data Scientist
+ERP,2,Germany,Data Scientist
+KPIs,1,Germany,Data Scientist
+Julia,3,Germany,Data Scientist
+Decision Trees,1,Germany,Data Scientist
+PostgresSQL,6,Germany,Data Scientist
+MongoDB,1,Germany,Data Scientist
+Theano,2,Germany,Data Scientist
+Quicksight,1,Germany,Data Scientist
+Power BI,58,Germany,Data Engineer
+Azure,209,Germany,Data Engineer
+SQL,298,Germany,Data Engineer
+Databricks,99,Germany,Data Engineer
+Python,360,Germany,Data Engineer
+ML,37,Germany,Data Engineer
+GCP,262,Germany,Data Engineer
+Spark,108,Germany,Data Engineer
+CI/CD,119,Germany,Data Engineer
+AWS,190,Germany,Data Engineer
+Terraform,65,Germany,Data Engineer
+git,67,Germany,Data Engineer
+Airflow,66,Germany,Data Engineer
+Tableau,40,Germany,Data Engineer
+Kubernetes,78,Germany,Data Engineer
+ETL Tools,106,Germany,Data Engineer
+Docker,83,Germany,Data Engineer
+Kinesis,10,Germany,Data Engineer
+BigQuery,38,Germany,Data Engineer
+Snowflake,83,Germany,Data Engineer
+R,32,Germany,Data Engineer
+Alteryx,5,Germany,Data Engineer
+Kafka,93,Germany,Data Engineer
+Adobe Analytics,1,Germany,Data Engineer
+Google Analytics,1,Germany,Data Engineer
+Scala,86,Germany,Data Engineer
+Java,130,Germany,Data Engineer
+SAP,30,Germany,Data Engineer
+Exasol,5,Germany,Data Engineer
+MicroStrategy,3,Germany,Data Engineer
+dbt,38,Germany,Data Engineer
+MongoDB,16,Germany,Data Engineer
+PostgresSQL,38,Germany,Data Engineer
+Scipy/scikit-learn,8,Germany,Data Engineer
+Talend,10,Germany,Data Engineer
+NLTK/NLP,4,Germany,Data Engineer
+Athena,7,Germany,Data Engineer
+Excel/Google Sheets,13,Germany,Data Engineer
+Quicksight,3,Germany,Data Engineer
+Lambda,18,Germany,Data Engineer
+Salesforce,11,Germany,Data Engineer
+PyTorch,4,Germany,Data Engineer
+KPIs,4,Germany,Data Engineer
+TensorFlow,8,Germany,Data Engineer
+Google Data Studio,13,Germany,Data Engineer
+MS Office,5,Germany,Data Engineer
+Glue,17,Germany,Data Engineer
+Julia,6,Germany,Data Engineer
+No-SQL,2,Germany,Data Engineer
+Puppet,3,Germany,Data Engineer
+Golang,3,Germany,Data Engineer
+OLAP,5,Germany,Data Engineer
+dask,1,Germany,Data Engineer
+ERP,10,Germany,Data Engineer
+Statistics,5,Germany,Data Engineer
+Ruby,1,Germany,Data Engineer
+LUA,3,Germany,Data Engineer
+SAS,3,Germany,Data Engineer
+Qliksense,7,Germany,Data Engineer
+Census,1,Germany,Data Engineer
+Power BI,88,Spain,Data Analyst
+Excel/Google Sheets,144,Spain,Data Analyst
+R,67,Spain,Data Analyst
+Tableau,82,Spain,Data Analyst
+Python,139,Spain,Data Analyst
+A/B testing,24,Spain,Data Analyst
+Google Data Studio,44,Spain,Data Analyst
+SQL,183,Spain,Data Analyst
+Google Analytics,20,Spain,Data Analyst
+BigQuery,16,Spain,Data Analyst
+SAS,17,Spain,Data Analyst
+Airflow,7,Spain,Data Analyst
+dbt,3,Spain,Data Analyst
+ETL Tools,30,Spain,Data Analyst
+Databricks,6,Spain,Data Analyst
+Snowflake,13,Spain,Data Analyst
+Kafka,1,Spain,Data Analyst
+AWS,15,Spain,Data Analyst
+Alteryx,4,Spain,Data Analyst
+SAP,36,Spain,Data Analyst
+GCP,18,Spain,Data Analyst
+git,10,Spain,Data Analyst
+Salesforce,6,Spain,Data Analyst
+ERP,10,Spain,Data Analyst
+Statistics,38,Spain,Data Analyst
+KPIs,23,Spain,Data Analyst
+Glue,1,Spain,Data Analyst
+Azure,13,Spain,Data Analyst
+Scala,2,Spain,Data Analyst
+CI/CD,5,Spain,Data Analyst
+MS Office,9,Spain,Data Analyst
+Scipy/scikit-learn,14,Spain,Data Analyst
+Qliksense,10,Spain,Data Analyst
+Spark,3,Spain,Data Analyst
+Quicksight,1,Spain,Data Analyst
+Lambda,1,Spain,Data Analyst
+Adobe Analytics,2,Spain,Data Analyst
+Random Forest,1,Spain,Data Analyst
+TensorFlow,1,Spain,Data Analyst
+XGBoost,1,Spain,Data Analyst
+Keras,1,Spain,Data Analyst
+Visual Basic,1,Spain,Data Analyst
+MongoDB,2,Spain,Data Analyst
+Docker,2,Spain,Data Analyst
+PostgresSQL,1,Spain,Data Analyst
+Athena,1,Spain,Data Analyst
+Terraform,1,Spain,Data Analyst
+Java,3,Spain,Data Analyst
+ML,2,Spain,Data Analyst
+MicroStrategy,1,Spain,Data Analyst
+SQL,83,Spain,Data Scientist
+git,14,Spain,Data Scientist
+Spark,28,Spain,Data Scientist
+Tableau,15,Spain,Data Scientist
+AWS,43,Spain,Data Scientist
+Kafka,6,Spain,Data Scientist
+Python,128,Spain,Data Scientist
+Terraform,3,Spain,Data Scientist
+Statistics,36,Spain,Data Scientist
+Scala,14,Spain,Data Scientist
+Java,9,Spain,Data Scientist
+R,48,Spain,Data Scientist
+ML,63,Spain,Data Scientist
+GCP,33,Spain,Data Scientist
+CI/CD,9,Spain,Data Scientist
+Azure,32,Spain,Data Scientist
+BigQuery,5,Spain,Data Scientist
+ETL Tools,6,Spain,Data Scientist
+PostgresSQL,1,Spain,Data Scientist
+Random Forest,2,Spain,Data Scientist
+Scipy/scikit-learn,27,Spain,Data Scientist
+Kubernetes,9,Spain,Data Scientist
+Databricks,21,Spain,Data Scientist
+NLTK/NLP,19,Spain,Data Scientist
+TensorFlow,20,Spain,Data Scientist
+XGBoost,6,Spain,Data Scientist
+Keras,5,Spain,Data Scientist
+SAS,4,Spain,Data Scientist
+Athena,2,Spain,Data Scientist
+Qliksense,3,Spain,Data Scientist
+Power BI,17,Spain,Data Scientist
+Lambda,7,Spain,Data Scientist
+PyTorch,25,Spain,Data Scientist
+dbt,1,Spain,Data Scientist
+Glue,2,Spain,Data Scientist
+Decision Trees,2,Spain,Data Scientist
+Alteryx,1,Spain,Data Scientist
+Docker,14,Spain,Data Scientist
+A/B testing,6,Spain,Data Scientist
+Snowflake,4,Spain,Data Scientist
+Google Data Studio,6,Spain,Data Scientist
+MongoDB,3,Spain,Data Scientist
+Airflow,4,Spain,Data Scientist
+OpenCV,1,Spain,Data Scientist
+SAP,1,Spain,Data Scientist
+KPIs,2,Spain,Data Scientist
+Excel/Google Sheets,2,Spain,Data Scientist
+Talend,1,Spain,Data Scientist
+ETL Tools,73,Spain,Data Engineer
+SQL,128,Spain,Data Engineer
+Python,117,Spain,Data Engineer
+GCP,68,Spain,Data Engineer
+AWS,63,Spain,Data Engineer
+Snowflake,31,Spain,Data Engineer
+CI/CD,47,Spain,Data Engineer
+Airflow,41,Spain,Data Engineer
+Kafka,22,Spain,Data Engineer
+Power BI,25,Spain,Data Engineer
+Spark,62,Spain,Data Engineer
+MongoDB,5,Spain,Data Engineer
+Azure,77,Spain,Data Engineer
+BigQuery,15,Spain,Data Engineer
+PostgresSQL,14,Spain,Data Engineer
+Databricks,52,Spain,Data Engineer
+ML,11,Spain,Data Engineer
+Kinesis,2,Spain,Data Engineer
+Docker,19,Spain,Data Engineer
+Scala,40,Spain,Data Engineer
+Java,23,Spain,Data Engineer
+dbt,10,Spain,Data Engineer
+Google Data Studio,8,Spain,Data Engineer
+R,8,Spain,Data Engineer
+git,30,Spain,Data Engineer
+Statistics,2,Spain,Data Engineer
+Tableau,11,Spain,Data Engineer
+Salesforce,4,Spain,Data Engineer
+Athena,5,Spain,Data Engineer
+SAP,12,Spain,Data Engineer
+Talend,3,Spain,Data Engineer
+Quicksight,4,Spain,Data Engineer
+Terraform,27,Spain,Data Engineer
+Kubernetes,14,Spain,Data Engineer
+Glue,8,Spain,Data Engineer
+Lambda,8,Spain,Data Engineer
+Golang,1,Spain,Data Engineer
+ERP,2,Spain,Data Engineer
+OLAP,3,Spain,Data Engineer
+dask,1,Spain,Data Engineer
+Exasol,3,Spain,Data Engineer
+MicroStrategy,1,Spain,Data Engineer
+PyTorch,2,Spain,Data Engineer
+Scipy/scikit-learn,1,Spain,Data Engineer
+TensorFlow,1,Spain,Data Engineer
+Qliksense,2,Spain,Data Engineer
+KPIs,2,Spain,Data Engineer
+Excel/Google Sheets,6,Spain,Data Engineer
+SAS,1,Spain,Data Engineer
