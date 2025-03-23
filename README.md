@@ -15,8 +15,8 @@ This project involves web scraping job listings from LinkedIn to analyze the dem
 - **Scrolling & Loading:** Implemented scrolling and wait time to ensure all job listings load before moving to the next page.
 
 ## Challenges
--**Collecting  dynamic job data from LinkedIn platform was very difficult.
--**Also to put specific set of job skill set using regex added complexity.
+- **Collecting  dynamic job data from LinkedIn platform was very difficult.**
+- **Also to put specific set of job skill set using regex added complexity.**
 
 ## Technologies Used
 - **Python** (for automation & data processing)
