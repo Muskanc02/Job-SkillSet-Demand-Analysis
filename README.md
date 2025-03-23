@@ -20,10 +20,12 @@ This project involves web scraping job listings from LinkedIn to analyze the dem
 
 ## Technologies Used
 - **Python** (for automation & data processing)
-- ** SQL** (for table relations)
+- **SQL** (for table relations)
 - **Selenium** (for web scraping)
 - **ChromeDriver Installer** (to automate browser interactions)
 - **UV (Unplugged Virtual Environments)** (for managing dependencies)
+- **Design KPI metrics**(to measure results)
+- **Hypothesis Testing**(to verify results statistically)
 
 ## Project Environment & Dependencies
 A **project environment** was created using **uv**, which helps manage dependencies efficiently. The required dependencies are listed below and can be installed using a `pyproject.toml` file.
@@ -50,7 +52,7 @@ dependencies = [
 After collecting the job data, **Exploratory Data Analysis (EDA)** was performed to identify trends and insights. The following techniques were used:
 - **Data Cleaning:** Removed duplicates, handled missing values, and standardized job titles.
 - **Skill Analysis:** Extracted key skills mentioned in job descriptions using text analysis.
--**Regex-based Skill Extraction: Used regular expressions (regex) to search for specific skill keywords within job descriptions and stored the extracted skills corresponding to each job ID.
+- **Regex-based Skill Extraction: Used regular expressions (regex) to search for specific skill keywords within job descriptions and stored the extracted skills corresponding to each job ID.
 - **Job SKILL SET Demand:** Visualized demand for different roles in Data Anaytics and across two locations I.e GERMANY and SPAIN
 - **Skill and in demand Gap analysis :Coverage for skill sets in the boot camps for different job roles.
 
