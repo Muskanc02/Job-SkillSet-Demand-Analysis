@@ -14,8 +14,13 @@ This project involves web scraping job listings from LinkedIn to analyze the dem
 - **Pagination Handling:** The script navigates through **40 pages** per job title.
 - **Scrolling & Loading:** Implemented scrolling and wait time to ensure all job listings load before moving to the next page.
 
+## Challenges
+-**Collecting  dynamic job data from LinkedIn platform was very difficult.
+-**Also to put specific set of job skill set using regex added complexity.
+
 ## Technologies Used
 - **Python** (for automation & data processing)
+- ** SQL** (for table relations)
 - **Selenium** (for web scraping)
 - **ChromeDriver Installer** (to automate browser interactions)
 - **UV (Unplugged Virtual Environments)** (for managing dependencies)
@@ -69,6 +74,7 @@ Data SCIENTIST
 https://public.tableau.com/app/profile/muskan.chawla2373/viz/JobListingAnalysis_17417071327610/Dashboard1?publish=yes
 Also available as tableau work book in git hub repo.
 
+## Presentation link-
 Presentation Link : https://docs.google.com/presentation/d/12E7MEW84s4_W8v-4T5Ldzq2DhbVKjqFdJgOeIMZZ-ak/edit#slide=id.g33f481e1cda_0_37
 
 ## How to Run the Script
