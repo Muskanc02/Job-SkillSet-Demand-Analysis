@@ -4,7 +4,7 @@
 This project involves web scraping job listings from LinkedIn to analyze the demand for various data-related roles. The automated script collects job data for **Data Analyst, Data Scientist, and Data Engineer** roles, providing insights into job trends, required skills, and industry demands.
 
 ## Data Collection
-- **Platform:** LinkedIn
+- **Platform:** LinkedIn(March 2025)
 - **Job Titles Scraped:**
   - Data Analyst
   - Data Scientist
